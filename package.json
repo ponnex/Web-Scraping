@@ -1,0 +1,12 @@
+{
+  "name": "node-web-scrape",
+  "version": "0.0.1",
+  "description": "Scraping a Web",
+  "main": "server.js",
+  "author": "ponnex",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "node-table-to-csv": "^0.1.0",
+    "puppeteer": "^0.13.0"
+  }
+}
